@@ -10,10 +10,10 @@ namespace _58
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("36");
-            //zd36();
-            //Console.WriteLine("34");
-            //zd34();
+            Console.WriteLine("36");
+            zd36();
+            Console.WriteLine("34");
+            zd34();
             Console.WriteLine("38");
             zd38();
         }
